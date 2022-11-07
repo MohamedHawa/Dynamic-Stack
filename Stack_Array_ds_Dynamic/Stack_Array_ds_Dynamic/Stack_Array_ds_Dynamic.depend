@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1665778051 source:d:\test_c_programs\stack_array_ds_dynamic\stack_array_ds_dynamic\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Plateform_DataTypes.h"
+	"Stack_Array_ds_Dynamic.h"
+
+1665646941 d:\test_c_programs\stack_array_ds_dynamic\stack_array_ds_dynamic\plateform_datatypes.h
+
+1665776101 d:\test_c_programs\stack_array_ds_dynamic\stack_array_ds_dynamic\stack_array_ds_dynamic.h
+	"Plateform_DataTypes.h"
+
+1665778339 source:d:\test_c_programs\stack_array_ds_dynamic\stack_array_ds_dynamic\stack_array_ds_dynamic.c
+	"Plateform_DataTypes.h"
+	"Stack_Array_ds_Dynamic.h"
+	<stdio.h>
+	<stdlib.h>
+
